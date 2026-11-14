@@ -1,0 +1,51 @@
+BusID,BusType,Capacity
+1,Seater,40
+2,Volvo,40
+3,Volvo,45
+4,AC Sleeper,45
+5,Seater,40
+6,AC Sleeper,35
+7,AC Sleeper,45
+8,Volvo,35
+9,Seater,35
+10,Seater,45
+11,Seater,35
+12,Volvo,35
+13,Volvo,40
+14,Volvo,35
+15,Volvo,40
+16,Volvo,45
+17,Seater,45
+18,AC Sleeper,40
+19,Seater,45
+20,AC Sleeper,35
+21,Volvo,35
+22,AC Sleeper,35
+23,Seater,45
+24,Seater,35
+25,AC Sleeper,45
+26,Volvo,35
+27,Volvo,40
+28,Seater,45
+29,AC Sleeper,45
+30,Volvo,35
+31,Volvo,45
+32,Seater,45
+33,Volvo,40
+34,AC Sleeper,40
+35,Seater,35
+36,Seater,40
+37,AC Sleeper,35
+38,Seater,35
+39,Volvo,35
+40,Volvo,45
+41,AC Sleeper,40
+42,Volvo,35
+43,AC Sleeper,40
+44,AC Sleeper,35
+45,Volvo,40
+46,AC Sleeper,40
+47,Volvo,35
+48,Seater,45
+49,Seater,40
+50,AC Sleeper,45
