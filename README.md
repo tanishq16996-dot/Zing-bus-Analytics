@@ -38,14 +38,14 @@ An end-to-end analytics project built with **Python, SQL, Power BI and DAX**. It
 - Monthly Revenue Trend
 - Booking Status (confirmed vs cancelled)
 
-![Executive Dashboard](images/executive_dashboard.png)
+![Executive Dashboard](images/executive_dashboard.png.png)
 
 ### 2. Operations
 - KPI cards: Total Revenue, Total Bookings, Average Fare, Total Customers, Average Rating
 - Revenue and Average Fare by Bus Type
 - Route Performance Matrix (revenue, bookings and average fare by route)
 
-![Operations](images/operations.png)
+![Operations](images/operations.png.png)
 
 ### 3. Customer Insights
 - Customer Growth over time
@@ -53,7 +53,7 @@ An end-to-end analytics project built with **Python, SQL, Power BI and DAX**. It
 - City-wise Customers
 - Rating Distribution
 
-![Customer Insights](images/customer_insights.png)
+![Customer Insights](images/customer_insights.png.png)
 
 **Interactivity:** slicers, drill-downs and page navigation let users filter by city, month and bus type.
 
